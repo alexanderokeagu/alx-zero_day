@@ -1,2 +1,2 @@
 My first readme
-My 3rd commit
+my third commit
